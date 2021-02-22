@@ -1,11 +1,12 @@
-#Load data
+#Load libraries
 library(FSAdata) #for data
 library(tidyverse) #for cleaning and plotting
 devtools::install_github("ciannabp/inauguration") #for testing a palent
 library(inauguration)
 
 
-#Look at the siscowet data
+#Look at the siscowet data (I did not see a CSV file, did I miss it?)
+# I am just using the data from the library. 
 head(SiscowetMI2004)
 
 #I'm going to remove the data point of the heavy fish.
