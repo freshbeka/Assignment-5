@@ -6,7 +6,7 @@ library(inauguration)
 
 
 #Look at the siscowet data (I did not see a CSV file, did I miss it?)
-# I am just using the data from the library. 
+# I am just using the data from the library.
 head(SiscowetMI2004)
 
 #I'm going to remove the data point of the heavy fish.
